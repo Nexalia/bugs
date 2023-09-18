@@ -1,8 +1,8 @@
 name: Bug Report
 description: Signalez un bug
 title: "[BUG]: "
-labels: ["Bug"]
-projects: ["octo-org/Bugs"]
+labels: ["Nouveau"]
+projects: ["Nexalia/Bugs"]
 body:
   - type: markdown
     attributes:
