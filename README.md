@@ -1,4 +1,4 @@
-![Nexalia Icon](https://raw.githubusercontent.com/Nexalia/.github/main/profile/icon.png)
+![Nexalia Icon](https://raw.githubusercontent.com/Nexalia/.github/main/profile/icon_1.png)
 
 🦠 Signalez de bugs sur le serveur  
 
